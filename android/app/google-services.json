@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795865819089",
+    "firebase_url": "https://catelogged-ad532.firebaseio.com",
+    "project_id": "catelogged-ad532",
+    "storage_bucket": "catelogged-ad532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795865819089:android:121aa6429aa74d994e62f0",
+        "android_client_info": {
+          "package_name": "com.meem.catelogged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795865819089-ec3ipauril9uk46olqcks0mtln2b5h5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meem.catelogged",
+            "certificate_hash": "d8a3192f491f7b21083d8bbc6790bb29ce25007c"
+          }
+        },
+        {
+          "client_id": "795865819089-4b5nis1m4b0rgb42p2qetid661rv0lmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlZy9dEsiSmMX7102ShUCSnxL2oI-mcA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795865819089-4b5nis1m4b0rgb42p2qetid661rv0lmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
